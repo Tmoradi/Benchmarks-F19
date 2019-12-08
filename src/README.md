@@ -3,5 +3,4 @@
 
 1. Jupyter :Notebook demos
 2. Scraping : Code for scraping
-3. utils.py : file to store all common utility code
-
+3. requirements.txt : library requirements to run model
